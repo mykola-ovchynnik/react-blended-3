@@ -16,7 +16,7 @@ export const Select = styled.select`
 
   border-style: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  background-color: transparent;
+  background-color: #41707c;
 
   padding: 10px;
   font-size: 18px;
